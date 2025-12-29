@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SafeGuard AI - Social Media Content Moderator",
+  "description": "A high-performance content analysis tool for AI/ML developers to detect and categorize abusive behavior, hate speech, and harmful imagery in social media contexts using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
